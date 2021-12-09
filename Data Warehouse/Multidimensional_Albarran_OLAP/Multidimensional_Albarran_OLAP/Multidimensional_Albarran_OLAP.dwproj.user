@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>MD Albarran</Id>
+            <Name>MD Albarran</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAax65vixT+0+vO85ewY6Y8AAAAAAYAAAATQBEACAAQQBsAGIAYQByAHIAYQBuAAAAEGYAAAABAAAgAAAA1+NIkgIK0nKM1aq96QIHpuxvuscZXjDnNeapzqX8yukAAAAADoAAAAACAAAgAAAAiwG+qOWUyOFEtv3DxJlOMTxJZdMNUxUsVbHfsJRpsPgQAAAAA2pq9/iWM8f19hssAjOXaEAAAADC4mFgyGAzvXBlGkp0DdOkouNLg1Rn6tJrzOjKGHzh8Mm/cRu9AEkfywDw5kTjlneO1gGybHTau4bQTGg5b1E4</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>MD Albarran</Id>
+            <Name>MD Albarran</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAax65vixT+0+vO85ewY6Y8AAAAAAYAAAATQBEACAAQQBsAGIAYQByAHIAYQBuAAAAEGYAAAABAAAgAAAAHG3Ua+6x8tcucflYlpmp/8O9fiDkA9kxRie498Ts00YAAAAADoAAAAACAAAgAAAANlcpiUEvJbOE+e7b6+DPNX9WvPY0RZlR2yl/06p/o44QAAAA3hOekfhReelr5jZCYpnu0UAAAACwU1JOl61/cE6xilE0wXiBlSKf02SMH0HrNg46GmXKIQkaKxWMIAOmu6gW+chOz6A53syb35dq48I07W/0K7yJ</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>DESKTOP-0MMJR16\MULTIDIMENSIONAL</TargetServer>
+        <TargetDatabase>Multidimensional_Albarran_OLAP</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
